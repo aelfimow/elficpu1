@@ -26,3 +26,6 @@ General purpose registers are set to 0.
 
 # FPGA resources
 On Sparten 3e board: 147 slices. Max. clock frequency: 118 MHz.
+
+# RTL schematics
+![RTL schematics](Spartan3E_StarterKit/RTL-schematics.png)
